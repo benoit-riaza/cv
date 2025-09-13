@@ -16,6 +16,17 @@ Je combine une expertise solide en **IA Générative**, **DevOps**, et **leaders
 - 🔗 LinkedIn : [www.linkedin.com/in/benoit-riaza-631312141](www.linkedin.com/in/benoit-riaza-631312141)  
 ---
 
+## 🧭 Employeurs & Contrats
+
+- **Valeuriad** — CDI — **2016 → aujourd’hui** (≈ **9 ans**)  
+  Rôle : **Lead Tech** & **Responsable Opérationnel DevOps** (20–100% selon mission)
+
+- **Capgemini** — CDI — **2010 → 2016** (≈ **6 ans**)  
+  Mission principale : **VSCT / SNCF Connect**
+
+> **Expérience totale** : ~**15+ ans** | **Lead Tech** · **IA générative** · **DevOps/Kubernetes**
+
+---
 ## 📑 Sommaire
 - [⚙️ Responsable Opérationnel DevOps chez valeuriad](#️-responsable-opérationnel-devops-en-parallèle-des-missions)
 - [🤖 Projets Personnels (IA Générative)](#-projets-personnels-ia-générative)
@@ -87,6 +98,8 @@ Je combine une expertise solide en **IA Générative**, **DevOps**, et **leaders
 ---
 
 ## 💼 Expériences Professionnelles (missions clients)
+
+### 🏢 Missions via **Valeuriad** (2016 → aujourd’hui)
 
 ### 🚄 SNCF Connect – Lead Tech  
 📅 05/2025 – En cours  
@@ -176,8 +189,9 @@ Je combine une expertise solide en **IA Générative**, **DevOps**, et **leaders
 - Perf : **JVisualVM, Gatling**  
 
 ---
+### 🏢 Missions via **Capgemini** (2010 → 2016)
 
-### 🚄 SNCF Connect (Capgemini) – Développeur / Référent Technique  
+### 🚄 SNCF Connect – Développeur / Référent Technique  
 📅 09/2010 – 09/2016 (6 ans et 1 mois)  
 - Développement du **hub de paiement** pour voyages-sncf.com
 - developpement sur la partie paiement sur le site voyages-sncf.com
