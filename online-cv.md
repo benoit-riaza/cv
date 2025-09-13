@@ -1,11 +1,22 @@
 # 👨‍💻 Lead Tech – Expert IA Générative & Responsable Opérationnel DevOps
 
-Bienvenue sur mon portfolio.  
+Bienvenue sur mon portfolio GitHub.  
 Je combine une expertise solide en **IA Générative**, **DevOps**, et **leadership technique**.  
-Mon profil se distingue par :  
-- La mise en place de **solutions IA multi-agents** avec LLM (OpenAI, Bedrock, LangChain4j).  
-- Un rôle de **Responsable Opérationnel DevOps** pour mon entreprise (20% à 100% du temps).  
-- Une expérience confirmée de **Lead Tech** en environnements **Java, Node.js, Cloud-native**.  
+
+---
+
+## 📬 Contact
+- 📧 Email : [ton.email@exemple.com](mailto:ton.email@exemple.com)  
+- 🔗 LinkedIn : [linkedin.com/in/ton-profil](https://www.linkedin.com/in/ton-profil)  
+- 💻 GitHub : [github.com/benoit-riaza](https://github.com/benoit-riaza)  
+
+---
+
+## 📑 Sommaire
+- [⚙️ Responsable Opérationnel DevOps](#️-responsable-opérationnel-devops-en-parallèle-des-missions)
+- [🤖 Projets Personnels (IA Générative)](#-projets-personnels-ia-générative)
+- [🎤 Présentations & Formations](#-présentations--formations)
+- [💼 Expériences Professionnelles (missions clients)](#-expériences-professionnelles-missions-clients)
 
 ---
 
@@ -20,10 +31,10 @@ Mon profil se distingue par :
 
 ---
 
-## 🤖 Projets Personnels(IA Générative)
+## 🤖 Projets Personnels (IA Générative)
 
 📅 Depuis 03/2024 – 05/2025  
-# craftIA 
+
 - Implémentation d’un concept de **génération automatique de code agnostique** aux modèles IA  
 - Mise en place de back (Java) pour génération de code via API IA  
 - Génération multi-langages, configuration DevOps, persistance contexte  
@@ -36,14 +47,12 @@ Mon profil se distingue par :
 
 **Outils utilisés :** GPT-4, Gemini 2.5, GPT-4o-mini, LangChain4j, Java 21, Spring Boot 3, Docker, GitLabCI, MongoDB, React, Kafka  
 
-# git agent interaction
 **Agents IA (Git) :**  
 - Sur MR / commit / merge :  
   - Mise à jour documentation  
   - Suggestions selon guidelines de développement  
-  - Mise à jour de tests automatisés (Playwright)
-    
-# automatic chatbot from swagger
+  - Mise à jour de tests automatisés (Playwright)  
+
 **Chatbot générique :**  
 - IHM React + Core Spring Boot  
 - Plug sur n’importe quel Swagger → interaction textuelle avec API  
@@ -59,43 +68,42 @@ Mon profil se distingue par :
 ## 🎤 Présentations & Formations
 
 **Présentations (Printemps de la Tech, internes, workshops) :**  
-- GitLabCI vs Jenkins  
-- Feature Flipping  
-- Gestion des transactions via Spring  
-- Actuator & Spring Boot Admin  
-- Analyse des threads avec JVisualVM  
-- API réactives & Virtual Threads (bench comparatif)  
-- Présentation du projet CraftIA  
+- ⚡ GitLabCI vs Jenkins  
+- 🔀 Feature Flipping  
+- 💳 Gestion des transactions via Spring  
+- 📊 Actuator & Spring Boot Admin  
+- 🔍 Analyse des threads avec JVisualVM  
+- 🔄 API réactives & Virtual Threads (bench comparatif)  
+- 🤖 Présentation du projet CraftIA  
 
 **Formations dispensées :**  
-- Métier de Lead Tech / Développeur  
-- Docker  
+- 👨‍🏫 Métier de Lead Tech / Développeur  
+- 🐳 Docker  
 
 ---
 
 ## 💼 Expériences Professionnelles (missions clients)
 
-### SNCF Connect – Lead Tech  
+### 🚄 SNCF Connect – Lead Tech  
 📅 05/2025 – En cours  
 **Projet Maia : création d’une structure multi-agent pour réaliser des bots à base de LLM**  
 - Mode vocal : **OpenAI Realtime Audio**  
-- Mode texte : **WebSocket, SSE, HTTP avec OpenAI Realtime, AWS Bedrock (Claude 4)**  
+- Mode texte : **WebSocket, SSE, HTTP avec OpenAI Realtime, AWS Bedrock (Claude)**  
 - Projet en **Node / TypeScript** (Zod, Fastify, AWS, DynamoDB, React …), **architecture hexagonale**  
 - Mise en place de **serveur MCP**  
 - Function calling / tools  
-- Architecture multi-agent
-- datadog 
+- Architecture multi-agent  
 - Application de test avec **PromptFoo**  
 - **LLM as judge** pour l’évaluation  
 - Intégration dans un bot existant en **Kotlin** basé sur [TOCK](https://github.com/theopenconversationkit)  
 
 ---
 
-### France Travail – Lead Tech  
+### 🏢 France Travail – Lead Tech  
 📅 08/2021 – 12/2024 (3 ans et 5 mois)  
-**Produit PCM : lanceur d’application via IHM web et sous-onglets en iframes (reverse proxy + réécriture de flux)**  
+**Produit PCM : lanceur d’application via IHM web et sous-onglets en iframes**  
 - Back-end en **Java – Quarkus et Spring Boot**  
-- mise en place de la conf Kubernetes & conteneurisation sur cluster on-prem  
+- Kubernetes & conteneurisation  
 - CI/CD avec **ConcourseCI**, migration vers **GitLabCI**  
 - Déploiement **blue-green**  
 - Bench as code (**k6**)  
@@ -109,7 +117,7 @@ Mon profil se distingue par :
 
 ---
 
-### Bouygues Télécom – Concepteur / Développeur (PoC IA)  
+### 📱 Bouygues Télécom – Concepteur / Développeur (PoC IA)  
 📅 05/2024 – 05/2024 (1 mois)  
 - PoC IA pour migration **C++ → Java Spring Boot**  
 - Tests de modèles / frameworks IA  
@@ -119,12 +127,12 @@ Mon profil se distingue par :
 
 ---
 
-### France Travail – Lead Tech (Équipe Mavengers)  
+### 🧭 France Travail – Lead Tech (Équipe Mavengers)  
 📅 09/2019 – 08/2021 (2 ans)  
 **Encadrement d’une équipe de 6 développeurs – projets variés**  
-- Application startup (sessions candidats sur tablettes) → amélioration et migration vers Kubernetes  
+- Application startup (sessions candidats sur tablettes) → amélioration et migration Kubernetes  
 - CI/CD avec **ConcourseCI**  
-- Tests de perf **Gatling** et génération de data en python  
+- Tests de perf **Gatling**  
 - Première migration métier sous **Quarkus**  
 - Mise en place : feature flipping, Cypress, Sonar, GraphQL, Kafka  
 
@@ -132,7 +140,7 @@ Mon profil se distingue par :
 
 ---
 
-### Bouygues Télécom – Lead Tech (Infra SAV)  
+### 💡 Bouygues Télécom – Lead Tech (Infra SAV)  
 📅 09/2018 – 09/2019 (1 an 1 mois)  
 - Migration infra SAV (mobiles & box)  
 - Migration vers **Spring Boot**  
@@ -143,7 +151,7 @@ Mon profil se distingue par :
 
 ---
 
-### Bouygues Télécom – Lead Tech (Connexion 4G)  
+### 📶 Bouygues Télécom – Lead Tech (Connexion 4G)  
 📅 09/2017 – 09/2018 (1 an 1 mois)  
 - Gestion demandes connexion 4G  
 - Migration backend → **Spring Boot**  
@@ -154,7 +162,7 @@ Mon profil se distingue par :
 
 ---
 
-### Bouygues Télécom – Lead Tech (Recouvrement)  
+### 💳 Bouygues Télécom – Lead Tech (Recouvrement)  
 📅 09/2016 – 09/2017 (1 an 1 mois)  
 - Build & mise en service refonte recouvrement  
 - Dev en **Java 8 / Spring Boot**  
@@ -165,11 +173,13 @@ Mon profil se distingue par :
 
 ---
 
-### SNCF Connect (Capgemini) – Développeur / Référent Technique  
+### 🚄 SNCF Connect (Capgemini) – Développeur / Référent Technique  
 📅 09/2010 – 09/2016 (6 ans et 1 mois)  
+- Développement du **hub de paiement** pour voyages-sncf.com
+- developpement sur la partie paiement sur le site voyages-sncf.com
 - Développement application **Auto-train**  
 - Référent technique back **Eurostar**  
 - Référent connecteurs API  
-- Développement hub de paiement voyages-sncf.com  
+
 
 **Stack :** Java 7/8, Spring, Spring Boot, Jenkins, GitLabCI, Oracle, Gatling, Spring StateMachine, ELK, AKKA, Vert.x, Swagger, Mockito, Redis, Wireshark, Cucumber, Event-driven.  
