@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 👨‍💻 Lead Tech – Expert IA Générative & Responsable Opérationnel DevOps
 
 Bienvenue sur mon portfolio GitHub.  
