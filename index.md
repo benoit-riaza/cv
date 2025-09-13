@@ -3,6 +3,7 @@ layout: default
 title: "CV – Benoît Riaza"
 ---
 
+<div style="max-width: 900px; margin: auto; padding: 20px;">
 # 👨‍💻 Lead Tech – Expert IA Générative & Responsable Opérationnel DevOps
 
 Bienvenue sur mon portfolio GitHub.  
