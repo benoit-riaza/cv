@@ -3,39 +3,33 @@ layout: default
 title: "CV – Benoît Riaza"
 ---
 
-<div style="max-width: 900px; margin: auto; padding: 20px;">
+<div markdown="1" style="max-width: 900px; margin: 0 auto; padding: 24px;">
+
 # 👨‍💻 Lead Tech – Expert IA Générative & Responsable Opérationnel DevOps
 
 Bienvenue sur mon portfolio GitHub.  
 Je combine une expertise solide en **IA Générative**, **DevOps**, et **leadership technique**.  
 
----
-
 ## 📬 Contact
-- 📧 Email : [mailto:benoit.riaza@gmail.com](mailto:benoit.riaza@gmail.com)  
-- 🔗 LinkedIn : [www.linkedin.com/in/benoit-riaza-631312141](www.linkedin.com/in/benoit-riaza-631312141)  
----
+- 📧 Email : [benoit.riaza@gmail.com](mailto:benoit.riaza@gmail.com)
+- 🔗 LinkedIn : https://www.linkedin.com/in/benoit-riaza-631312141
 
 ## 🧭 Employeurs & Contrats
-
 - **Valeuriad** — CDI — **2016 → aujourd’hui** (≈ **9 ans**)  
   Rôle : **Lead Tech** & **Responsable Opérationnel DevOps** (20–100% selon mission)
-
 - **Capgemini** — CDI — **2010 → 2016** (≈ **6 ans**)  
   Mission principale : **VSCT / SNCF Connect**
 
 > **Expérience totale** : ~**15+ ans** | **Lead Tech** · **IA générative** · **DevOps/Kubernetes**
 
----
 ## 📑 Sommaire
-- [⚙️ Responsable Opérationnel DevOps chez valeuriad](#️-responsable-opérationnel-devops-en-parallèle-des-missions)
-- [🤖 Projets Personnels (IA Générative)](#-projets-personnels-ia-générative)
-- [🎤 Présentations & Formations](#-présentations--formations)
-- [💼 Expériences Professionnelles (missions clients)](#-expériences-professionnelles-missions-clients)
+- [⚙️ Responsable Opérationnel DevOps](#responsable-devops)
+- [🤖 Projets Personnels (IA Générative)](#projets-ia)
+- [🎤 Présentations & Formations](#talks-formations)
+- [💼 Expériences Professionnelles (missions clients)](#missions-clients)
 
----
-
-## ⚙️ Responsable Opérationnel DevOps chez valeuriad (en parallèle des missions)
+<a id="responsable-devops"></a>
+## ⚙️ Responsable Opérationnel DevOps chez Valeuriad (en parallèle des missions)
 
 - Rôle exercé **entre 20% et 100% du temps selon les missions**  
 - **Recrutement technique** : plus de 200 entretiens réalisés  
