@@ -17,14 +17,14 @@ Je combine une expertise solide en **IA Générative**, **DevOps**, et **leaders
 ---
 
 ## 📑 Sommaire
-- [⚙️ Responsable Opérationnel DevOps](#️-responsable-opérationnel-devops-en-parallèle-des-missions)
+- [⚙️ Responsable Opérationnel DevOps chez valeuriad](#️-responsable-opérationnel-devops-en-parallèle-des-missions)
 - [🤖 Projets Personnels (IA Générative)](#-projets-personnels-ia-générative)
 - [🎤 Présentations & Formations](#-présentations--formations)
 - [💼 Expériences Professionnelles (missions clients)](#-expériences-professionnelles-missions-clients)
 
 ---
 
-## ⚙️ Responsable Opérationnel DevOps (en parallèle des missions)
+## ⚙️ Responsable Opérationnel DevOps chez valeuriad (en parallèle des missions)
 
 - Rôle exercé **entre 20% et 100% du temps selon les missions**  
 - **Recrutement technique** : plus de 200 entretiens réalisés  
