@@ -195,3 +195,5 @@ Je combine une expertise solide en **IA Générative**, **DevOps**, et **leaders
 
 
 **Stack :** Java 7/8, Spring, Spring Boot, Jenkins, GitLabCI, Oracle, Gatling, Spring StateMachine, ELK, AKKA, Vert.x, Swagger, Mockito, Redis, Wireshark, Cucumber, Event-driven.  
+
+</div>
