@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "CV – Benoît Riaza"
 ---
 
 # 👨‍💻 Lead Tech – Expert IA Générative & Responsable Opérationnel DevOps
