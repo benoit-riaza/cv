@@ -6,9 +6,8 @@ Je combine une expertise solide en **IA Générative**, **DevOps**, et **leaders
 ---
 
 ## 📬 Contact
-- 📧 Email : [ton.email@exemple.com](mailto:ton.email@exemple.com)  
-- 🔗 LinkedIn : [linkedin.com/in/ton-profil](https://www.linkedin.com/in/ton-profil)  
-- 💻 GitHub : [github.com/benoit-riaza](https://github.com/benoit-riaza)  
+- 📧 Email : [ton.email@exemple.com](mailto:benoit.riaza@gmail.com)  
+- 🔗 LinkedIn : [linkedin.com/in/ton-profil](www.linkedin.com/in/benoit-riaza-631312141)  
 
 ---
 
